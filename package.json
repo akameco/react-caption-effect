@@ -17,6 +17,9 @@
     "caption",
     "figure"
   ],
+  "files": [
+    "index.js"
+  ],
   "author": "akameco <akameco.t@gmail.com>",
   "license": "MIT",
   "bugs": {
